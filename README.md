@@ -5,3 +5,4 @@ Satellite Data
 2) Report in the original format
 3) Reproducible R code of the analysis performed by the authors
 4) R code for a generic CV function with description 
+5) Assignment for Project 2
